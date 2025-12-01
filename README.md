@@ -43,9 +43,11 @@ Languages and tools I use for my projects and studies:
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Crogued&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="Crogued's Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Crogued&theme=tokyonight&hide_border=true" alt="Crogued's Streak" />
+  
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crogued&layout=compact&theme=tokyonight&hide_border=true&lang_count=6" alt="Top Languages" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crogued&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
