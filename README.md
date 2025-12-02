@@ -4,7 +4,7 @@
   
   ### 🤖 Robotics & Artificial Intelligence Student
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Christian_Rodrigues-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/christian-rodrigues-goncalves/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Christian_Rodrigues-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/crogued/)
   [![Gmail](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:christian.rodrigues0211@gmail.com)
 
 </div>
